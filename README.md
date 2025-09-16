@@ -1,10 +1,10 @@
 ### Файлы для работы кастомного пункта контекстного меню FolderPainter
-
+#
 ![Описание изображения](https://i.ibb.co/mVwG3H6X/BDECE903-F5-A1-4223-870-C-BFD447-F21821.png)
 
 ![Скачиваний](https://img.shields.io/github/downloads/MartyFiles/FolderPainter/Release/total?style=for-the-badge&label=Скачиваний&color=blue&logo=download)
 
-___
+#
 
 Утилита WinClean доступна подписчикам [MartyPlus](https://t.me/martyfiles/1146).
 
